@@ -1,8 +1,6 @@
 # <p align="center">Pillars Design Document</p> 
 *<p align="center">by Colossus With Added Sugar Games</p>*
 
-I will merge this statement in from another branch into master.
-
 ## 1.Overview 
 Pillars is an indie game built for Windows. The Player is in control of 4 heroes and must defend a town from a rival god & his acolytes that seek to destroy the players pillar. As the player defends the town he/she is given more rewards and grows in power allowing the Player to fight the harder enemies that spawn.
 ##### 1.1 Vision Statement 
